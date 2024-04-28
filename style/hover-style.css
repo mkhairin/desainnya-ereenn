@@ -1,0 +1,11 @@
+#image-content:hover {
+    scale: 1.1;
+}
+
+#card-content:hover {
+    scale: 1.1;
+}
+
+a:hover {
+    text-decoration: underline;
+}

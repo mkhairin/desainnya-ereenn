@@ -1,0 +1,42 @@
+.plus-jakarta {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
+
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    width: 100%;
+}
+
+.bg-darkv2 {
+    background-color: #121212;
+}
+
+.hero-section {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(357deg, rgba(2, 0, 36, 1) 0%, rgba(29, 24, 110, 1) 100%);
+}
+
+.glassmorphin {
+    background: rgba(255, 255, 255, 0.05);
+    /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.gradient {
+    background-image: linear-gradient(to right bottom, #091add, #0717c5, #0514ad, #041096, #040d7f);
+}
+
+/* rounded for image cover */
+.border-cover {
+    border-radius: 25px;
+}
+
+a {
+    text-decoration: none;
+}
